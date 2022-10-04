@@ -2,6 +2,9 @@
 
 > Use the best tool for the job!
 
+- Slides: https://vitest-or-cypress.netlify.app/
+- Demo: https://vitest-or-cypress-demo.netlify.app/
+
 ```bash
 # Start dev server
 npm run dev
