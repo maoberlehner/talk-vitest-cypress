@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
+    "build": "vite build",
     "serve": "vite preview",
     "test:unit": "vitest run src/*",
     "test:all": "vitest run src/* test/specs/*",
