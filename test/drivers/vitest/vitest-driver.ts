@@ -4,7 +4,6 @@ import {
 } from 'vitest';
 import {
   configure,
-  fireEvent,
   screen,
   waitForElementToBeRemoved,
   within,
